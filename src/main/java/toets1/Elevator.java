@@ -52,4 +52,3 @@ public class Elevator {
     }
 }
 
-//return new int[] {0, Integer.parseInt(badge.substring(0,1)), 10};
